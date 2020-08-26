@@ -1,4 +1,4 @@
-# Musicians
+# Music man
 
 
 ![screenshot](readme-assets/screen0.png)
